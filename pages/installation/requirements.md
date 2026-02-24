@@ -8,11 +8,13 @@ weight: 100
 
 ## Hardware Requirements
 
+**Updated for v2.4.0** - Requirements have been reduced thanks to performance optimizations.
+
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|
-| CPU | 4 cores | 8 cores |
-| Memory | 8 GB | 16 GB |
-| Disk | 40 GB SSD | 100 GB SSD |
+| CPU | 2 cores | 4 cores |
+| Memory | 4 GB | 8 GB |
+| Disk | 20 GB SSD | 50 GB SSD |
 
 {{#if entitlements.isHAEnabled}}
 ### High Availability Requirements

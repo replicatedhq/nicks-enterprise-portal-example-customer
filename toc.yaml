@@ -4,6 +4,10 @@
 # rules for the ChartSmith Enterprise Portal documentation.
 
 navigation:
+  - title: What's New in v2.4.0
+    icon: star
+    page: pages/whats-new.md
+
   - title: Getting Started
     icon: rocket
     page: pages/getting-started.md
