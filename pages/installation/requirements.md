@@ -8,7 +8,12 @@ weight: 100
 
 ## Hardware Requirements
 
-**Updated for v2.4.0** - Requirements have been reduced thanks to performance optimizations.
+**Updated for v2.5.0** - Now with ARM64 support.
+
+### Supported Architectures
+
+- **x86_64 (amd64)** - Intel/AMD processors
+- **ARM64 (aarch64)** - Apple Silicon, AWS Graviton, Ampere
 
 | Component | Minimum | Recommended |
 |-----------|---------|-------------|

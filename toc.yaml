@@ -4,9 +4,13 @@
 # rules for the ChartSmith Enterprise Portal documentation.
 
 navigation:
-  - title: What's New in v2.4.0
+  - title: What's New in v2.5.0
     icon: star
     page: pages/whats-new.md
+
+  - title: Migration Guide
+    icon: arrow-right
+    page: pages/migration.md
 
   - title: Getting Started
     icon: rocket
