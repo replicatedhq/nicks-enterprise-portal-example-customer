@@ -9,10 +9,6 @@ Review vulnerability reports and software bill of materials for your current {{ 
 
 <SecurityVersionSelector />
 
-## CVE Report
-
 <CVEReport />
-
-## Software Bill of Materials
 
 <SBOMReport />
