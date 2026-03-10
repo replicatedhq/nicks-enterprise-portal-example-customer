@@ -86,6 +86,8 @@ navigation:
         page: pages/operations/backup.md
       - title: Upgrading
         page: pages/operations/upgrading.md
+      - title: Security
+        page: pages/operations/security.md
       - title: Troubleshooting
         page: pages/operations/troubleshooting.md
 
