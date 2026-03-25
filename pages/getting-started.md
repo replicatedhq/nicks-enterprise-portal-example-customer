@@ -61,6 +61,18 @@ Your {{ channel.name }} license includes:
 - ✅ Azure Terraform modules
 {{/if}}
 
+{{#ifEquals customer.name "Opal Laboratories"}}
+## Welcome, Opal Team!
+
+As part of our partnership with Opal Laboratories, you have access to dedicated onboarding support. Reach out to your assigned solutions engineer for a guided walkthrough.
+{{/ifEquals}}
+
+{{#ifEquals customer.name "Delta Corp"}}
+## Delta Corp Migration Guide
+
+If you're migrating from the legacy platform, see our [Delta-specific migration runbook](/migration) for step-by-step instructions tailored to your environment.
+{{/ifEquals}}
+
 ## Need Help?
 
 Check our [Troubleshooting Guide](/operations/troubleshooting) or [Contact Support](/support/contact).
