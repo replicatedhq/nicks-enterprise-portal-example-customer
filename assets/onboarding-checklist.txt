@@ -1,0 +1,23 @@
+ChartSmith Enterprise — Onboarding Checklist
+=============================================
+
+This is a sample downloadable asset for testing the EP v2 asset feature.
+
+Pre-Installation:
+  [ ] Review system requirements
+  [ ] Provision infrastructure (Terraform modules or manual)
+  [ ] Configure DNS records
+  [ ] Obtain TLS certificates
+
+Installation:
+  [ ] Choose installation method (Linux / Helm)
+  [ ] Deploy ChartSmith
+  [ ] Verify pod health
+  [ ] Run smoke tests
+
+Post-Installation:
+  [ ] Configure SSO/LDAP integration
+  [ ] Set up monitoring and alerting
+  [ ] Configure backup schedule
+  [ ] Complete security hardening checklist
+  [ ] Train operations team

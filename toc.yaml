@@ -96,6 +96,8 @@ navigation:
     items:
       - title: FAQ
         page: pages/support/faq.md
+      - title: Downloadable Resources
+        page: pages/support/resources.md
       - title: Contact Support
         page: pages/support/contact.md
 
